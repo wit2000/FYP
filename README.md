@@ -46,6 +46,9 @@ Build and Run: Compile and run the project code on the Raspberry Pi using the pr
 For detailed installation, setup, and usage instructions, please refer to the project documentation included in the repository.
 
 **Obtaining the Darknet Folder**
+
+The Darknet folder should be in the same folder as the code provided.
+
 To obtain the Darknet folder for object detection, please follow these steps:
 
 Visit the official Darknet repository on GitHub at https://github.com/AlexeyAB/darknet.
